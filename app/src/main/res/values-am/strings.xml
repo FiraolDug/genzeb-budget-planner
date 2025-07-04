@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ገንዘብ ባጀት አሰባሰቢ</string>
+
+    <string name="login">ግባ</string>
+    <string name="signup">መዝግብ</string>
+    <string name="create_account">መለያ ፍጠር</string>
+    <string name="full_name">ሙሉ ስም</string>
+    <string name="email">ኢሜይል</string>
+    <string name="password">የይለፍ ቃል</string>
+    <string name="confirm_password">የይለፍ ቃል አረጋግጥ</string>
+    <string name="security_question">የደህንነት ጥያቄ (የተወለዱበት ቦታ)</string>
+    <string name="remember_me">አስታውስኝ</string>
+    <string name="forgot_password">የይለፍ ቃል ረስተህ?</string>
+    <string name="no_account">መለያ የለህም? መዝግብ</string>
+    <string name="already_have_account">መለያ አለህ? ግባ</string>
+
+    <!-- Transactions -->
+    <string name="add_transaction">ግብይት አክል</string>
+    <string name="update_transaction">ግብይት አዘምን</string>
+    <string name="income">ገቢ</string>
+    <string name="expense">ወጪ</string>
+    <string name="amount">መጠን</string>
+    <string name="category">ምድብ</string>
+    <string name="description">መግለጫ</string>
+    <string name="date">ቀን</string>
+    <string name="save_transaction">ግብይት አስቀምጥ</string>
+    <string name="description_optional">መግለጫ (አማራጭ)</string>
+    <string name="budget_summary">የባጀት ማጠቃለያ</string>
+    <string name="balance">ቀሪ ሒሳብ</string>
+    <string name="recent_transactions">የቅርብ ጊዜ ግብይቶች</string>
+
+    <!-- Settings -->
+    <string name="settings">ቅንብሮች</string>
+    <string name="appearance">መልኩ</string>
+    <string name="dark_mode">ጨለማ ሁነታ</string>
+    <string name="language">ቋንቋ</string>
+    <string name="budget">ባጀት</string>
+    <string name="monthly_budget_limit">ወርሃዊ የባጀት ገደብ</string>
+    <string name="save_settings">ቅንብሮችን አስቀምጥ</string>
+    <string name="transaction_list_description">የቅርብ ጊዜ ግብይቶች ዝርዝር</string>
+
+    <string name="title_add_transaction">ግብይት አክል</string>
+    <string name="transaction_type_income">ገቢ</string>
+    <string name="transaction_type_expense">ወጪ</string>
+    <string name="hint_category">ምድብ</string>
+    <string name="hint_amount">መጠን</string>
+    <string name="hint_date">ቀን</string>
+    <string name="hint_description">ማብራሪያ (አማራጭ)</string>
+    <string name="btn_save_transaction">ግብይት አስቀምጥ</string>
+
+    <string name="title_budget_summary">የባጀት ማጠቃለያ</string>
+    <string name="label_income">ገቢ</string>
+    <string name="label_expenses">ወጪዎች</string>
+    <string name="label_balance">ሚዛን</string>
+    <string name="label_budget">ባጀት: 0.00 / 0.00</string>
+    <string name="title_recent_transactions">የቅርብ ጊዜ ግብይቶች</string>
+
+    <!-- Languages -->
+    <string-array name="languages">
+        <item>እንግሊዝኛ</item>
+        <item>አማርኛ</item>
+    </string-array>
+</resources>
